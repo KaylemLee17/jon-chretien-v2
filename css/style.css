@@ -116,3 +116,9 @@ img {
     margin: 0 auto;
 
 }
+
+.grid-music {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 24px;
+}
